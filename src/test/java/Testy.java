@@ -11,8 +11,7 @@ import static org.testng.Assert.assertTrue;
 
 public class Testy {
     WebDriver driver;
-//firstbranch commit---1
-    //push to nana -2
+//this is fafa push
 
     By userNameInput = By.xpath("//input[@id='login-form-username']");
     By passwordInput = By.xpath("//input[@id='login-form-password']");
